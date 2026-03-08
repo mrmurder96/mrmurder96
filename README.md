@@ -1,16 +1,34 @@
-## Hi there 👋
+# Josue Calahorrano
 
-<!--
-**mrmurder96/mrmurder96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Junior .NET (C#)** con experiencia construyendo aplicaciones web y APIs en proyectos académicos y personales. He trabajado principalmente con **.NET / .NET Framework**, **LINQ**, y herramientas comunes en APIs como **Swagger** y **JWT**. También tengo base en **Java**, **PHP** y **Python**.
 
-Here are some ideas to get you started:
+## Enfoque principal
+- **C# / .NET / .NET Framework**
+- **ASP.NET MVC** (web)
+- **LINQ**
+- **APIs**: Swagger / OpenAPI, JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- **Backend:** C# (.NET / .NET Framework), Java (básico-intermedio)
+- **Frontend:** HTML, JavaScript, Razor/MVC (según proyecto)
+- **DB:** SQL (CRUD / modelado) *(según proyecto)*
+- **Tools:** Git/GitHub, Swagger
+
+## Proyectos destacados
+- **MascotasMVC (C# / ASP.NET MVC)**  
+  Aplicación web MVC para gestión de mascotas.  
+  Repo: https://github.com/mrmurder96/MascotasMVC
+
+- **DenunciasAmbientalesPHP (PHP)**  
+  Sistema web para registrar y gestionar denuncias ambientales.  
+  Repo: https://github.com/mrmurder96/DenunciasAmbientalesPHP
+
+- **IncidentesPY (Python)**  
+  Proyecto en Python enfocado en registro/gestión de incidentes.  
+  Repo: https://github.com/mrmurder96/IncidentesPY
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/josue-calahorrano-29b515236/
+
+## Objetivo
+Busco oportunidades como **Desarrollador .NET Junior / Backend Junior** donde pueda aportar con C#, APIs y buenas prácticas, y seguir creciendo profesionalmente.
